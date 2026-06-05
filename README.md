@@ -66,14 +66,18 @@ https://ble.ir/ourtubebot
 
 ## 🔧 پروژه های دیگر مشابه
 
-- ✅ دانلود فایل با نت ملی با استفاده از گیتهاب :‌
+- ✅ دانلودر فایل با لینک مستقیم :‌
 
 🔗 https://github.com/nikzad-avasam/UDL-3
 
 - ✅ دانلود از گوگل درایو با نت ملی :
 
 🔗 https://github.com/nikzad-avasam/GD
-  
+
+- ✅ دانلود فایل های درون تلگرام با نت ملی :
+
+🔗 https://github.com/nikzad-avasam/TG-dl
+
 - ✅ کانال پیام رسان بله برای دریافت اطلاعیه ها و بروزرسانی های جدید :‌
 
 🔗 https://ble.ir/avasam_edu
